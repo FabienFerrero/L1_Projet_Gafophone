@@ -12,7 +12,7 @@ Pour les ignards, le gafophone est un instrument à corde très mélodieux.
 Durant cette séance, j'ai cherché les differentes techniques pour connecter le gafophone à un telephone portable.
 Je peux utiliser le Bluetooth ou le WIFI
 
-* Séance du 7 Janvier 2018 
+* Séance du 7 Janvier 2019
 
 J'ai commencé le code Arduino pour connecter le module de communication
 J'ai rencontré un problème sur la synchronisation entre mon telephone et le module Arduino.
