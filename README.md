@@ -1,9 +1,7 @@
-![Polytech](http://www.polytechnice.fr/jahia/jsp/jahia/templates/inc/img/polytech_nice-sophia.png)
+Ce projet est réalisé dans le cadre du module Communication Sans Fil en Licence 1 à l’Université Nice Sophia Antipolis
 
-Ce projet est réalisé dans le cadre de la formation de prépa intégrée de Polytech'Nice Sophia
-
-# PEIP2_Arduino_Exemple
-Exemple de projet Github pour les projets Arduino PEIP2
+# L1 Gafophone_Exemple
+Exemple de projet Github pour les projets en Licence 
 
 ![WallE](http://www.sofiahub.unice.fr/wp-content/uploads/2016/06/CIMG0046-1024x768.jpg)
 
@@ -16,5 +14,5 @@ Ce projet a pour but de montrer aux étudiants de PEIP2 comment utiliser Github 
 
 # Materiel utilisé
 
-Notre projet est basé sur une carte Arduino Xplained d'Atmel, ...
+Notre projet est basé sur une carte Arduino mini pro, ...
 
