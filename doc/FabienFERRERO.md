@@ -1,8 +1,8 @@
 # Cahier de suivi du projet de Fabien Ferrero
 
-* Séance du 20 Décembre 2017 
+* Séance du 24 Décembre 2018 
 
-J'ai formé mon groupe avec Pascal Masson (super binôme). 
+J'ai formé mon groupe avec Jérôme Lanteri (super binôme). 
 On s'est mis d'accord pour faire un projet autour de la musique, nous souhaitons créer un gafophone connecté
 
 Pour les ignards, le gafophone est un instrument à corde très mélodieux.
@@ -12,7 +12,7 @@ Pour les ignards, le gafophone est un instrument à corde très mélodieux.
 Durant cette séance, j'ai cherché les differentes techniques pour connecter le gafophone à un telephone portable.
 Je peux utiliser le Bluetooth ou le WIFI
 
-* Séance du 7 Janvier 2017 
+* Séance du 7 Janvier 2018 
 
 J'ai commencé le code Arduino pour connecter le module de communication
 J'ai rencontré un problème sur la synchronisation entre mon telephone et le module Arduino.
